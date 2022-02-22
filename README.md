@@ -1,7 +1,7 @@
 # web_project_1
 # Learning How to Learn
 
-**Intro**
+##Intro##
 
 This is my very first web project in the practicum100 course.
 This web page includes animations, flexboxes, iframes, and file structure using BEM.
